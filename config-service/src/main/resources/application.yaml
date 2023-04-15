@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: gateway
+          default-label: circuitbreaker
           uri: https://github.com/bryanjesuscastro2003/springmicro
           search-paths: config-data
   application:
