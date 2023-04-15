@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: config-server
+          default-label: eureka
           uri: https://github.com/bryanjesuscastro2003/springmicro
           search-paths: config-data
   application:
