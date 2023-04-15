@@ -1,0 +1,7 @@
+server:
+  port: 8002
+spring:
+  data:
+    mongodb:
+      database: test
+      uri: mongodb+srv://jointec:jointec@monnlech.jujo2t3.mongodb.net/?retryWrites=true&w=majority
